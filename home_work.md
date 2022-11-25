@@ -7,3 +7,4 @@ Quotes.
 5.«Challenges are what make life interesting and overcoming them is what makes life meaningful.»
 6.«Forget all the reasons it won’t work and believe the one reason that it will.»
 7.What seems to us as bitter trials are often blessings in disguise.
+8.«Change your life today. Don’t gamble on the future, act now, without delay.»
