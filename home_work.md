@@ -17,3 +17,5 @@ Quotes.
 8.«Change your life today. Don’t gamble on the future, act now, without delay.»
 
 9.Your time is limited, so don’t waste it living someone else’s life. Don’t be trapped by dogma — which is living with the results of other people’s thinking
+
+10.If you live long enough, you’ll make mistakes. But if you learn from them, you’ll be a better person
